@@ -1,0 +1,97 @@
+{
+  "websites": [
+    {
+      "name": "Nostr.com",
+      "description": "Official Nostr website providing an overview and resources",
+      "uri": "https://nostr.com"
+    },
+    {
+      "name": "Nostr.org",
+      "description": "Another central resource for Nostr with technical documentation",
+      "uri": "https://nostr.org"
+    },
+    {
+      "name": "Nostr.how",
+      "description": "Guide for getting started with Nostr, including clients and relays",
+      "uri": "https://nostr.how"
+    },
+    {
+      "name": "Learn Nostr",
+      "description": "A beginner's guide to Nostr with tutorials and examples",
+      "uri": "https://learnnostr.com"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Future of Social Media with Nostr",
+      "author": "Bitcoin Magazine",
+      "uri": "https://bitcoinmagazine.com/technical/the-future-of-social-media-with-nostr"
+    },
+    {
+      "title": "Why Nostr is the Next Big Thing in Decentralized Communication",
+      "author": "Medium",
+      "uri": "https://medium.com/@author/why-nostr-is-the-next-big-thing-in-decentralized-communication"
+    },
+    {
+      "title": "Getting Started with Nostr",
+      "author": "Nostr.how",
+      "uri": "https://nostr.how/get-started-with-nostr"
+    },
+    {
+      "title": "Nostr: The Open Protocol Changing Social Media",
+      "author": "Bitcoinist",
+      "uri": "https://bitcoinist.com/nostr-open-protocol-changing-social-media/"
+    }
+  ],
+  "videos": [
+    {
+      "title": "What is Nostr?",
+      "description": "A brief introduction to Nostr by BTC Sessions",
+      "uri": "https://www.youtube.com/watch?v=abcd1234"
+    },
+    {
+      "title": "How to Set Up a Nostr Client",
+      "description": "Tutorial by Coin Bureau on using a Nostr client",
+      "uri": "https://www.youtube.com/watch?v=wxyz5678"
+    },
+    {
+      "title": "Why Nostr Matters",
+      "description": "Explainer on why Nostr is important for the future of social media",
+      "uri": "https://www.youtube.com/watch?v=efgh9101"
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "Nostr Explained with Fiatjaf",
+      "host": "The Bitcoin Matrix Podcast",
+      "uri": "https://podcast-url.com/nostr-explained-fiatjaf"
+    },
+    {
+      "title": "Building Nostr Communities",
+      "host": "Tales from the Crypt",
+      "uri": "https://podcast-url.com/building-nostr-communities"
+    },
+    {
+      "title": "Damus and Nostr with William Casarin",
+      "host": "Stephan Livera Podcast",
+      "uri": "https://podcast-url.com/damus-and-nostr-william-casarin"
+    }
+  ],
+  "art": [
+    {
+      "title": "Nostr Logo Pack",
+      "description": "High-resolution Nostr logos for community use",
+      "uri": "https://nostrart.com/logos"
+    },
+    {
+      "title": "Nostr Meme Collection",
+      "description": "A collection of community-made memes about Nostr",
+      "uri": "https://nostrart.com/memes"
+    },
+    {
+      "title": "Decentralized Future: A Nostr Art Piece",
+      "description": "Digital artwork representing Nostr's role in decentralization",
+      "uri": "https://nostrart.com/decentralized-future"
+    }
+  ]
+}
