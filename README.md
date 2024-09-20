@@ -2,4 +2,4 @@
 
 Github actions run daily to update
 
-Please feel free to pull the jsons and use in your own sites
+Please feel free to pull the jsons and use in your own sites, share the resources
