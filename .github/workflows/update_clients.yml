@@ -1,4 +1,4 @@
-ame: Update Nostr Clients
+name: Update Nostr Clients
 
 on:
   schedule:
