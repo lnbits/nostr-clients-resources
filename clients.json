@@ -1,0 +1,171 @@
+// A Github action runs through daily to update stars and forks
+{
+  "web": [
+    {
+      "name": "Iris",
+      "description": "Made by Bitcoin's 2nd ever developer",
+      "repo": "https://github.com/irislib/iris-messenger",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://iris.to"
+    },
+    {
+      "name": "Nostter",
+      "description": "A lightweight Nostr client for web",
+      "repo": "https://github.com/SnowCait/nostter",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://nostter.app/"
+    },
+    {
+      "name": "Coracle",
+      "description": "Simple Nostr client focusing on a clean interface",
+      "repo": "https://github.com/coracle-social/coracle",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://coracle.social"
+    },
+    {
+      "name": "Blastr",
+      "description": "Experimental web-based Nostr client with media features",
+      "repo": "https://github.com/fiatjaf/blastr",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://blastr.app"
+    },
+    {
+      "name": "Anigma",
+      "description": "A web Nostr client that focuses on secure messaging",
+      "repo": "https://github.com/fiatjaf/anigma",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://anigma.io"
+    },
+    {
+      "name": "Nostrich",
+      "description": "A Nostr client for web focusing on minimalism",
+      "repo": "https://github.com/fiatjaf/nostrich",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://nostrich.io"
+    },
+    {
+      "name": "Expresso",
+      "description": "A simple and fast web-based Nostr client",
+      "repo": "https://github.com/get-expresso/expresso",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://getexpresso.com"
+    },
+    {
+      "name": "Branle",
+      "description": "Nostr client focused on group chats and private communities",
+      "repo": "https://github.com/branleapp/branle",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://branle.io"
+    }
+  ],
+  "ios": [
+    {
+      "name": "Damus",
+      "description": "One of the most popular Nostr clients for iOS",
+      "repo": "https://github.com/damus-io/damus",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://damus.io"
+    },
+    {
+      "name": "Nostrgram",
+      "description": "Simple and fast Nostr client for iOS",
+      "repo": "https://github.com/fiatjaf/nostrgram",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://nostrgram.com"
+    },
+    {
+      "name": "Snort.social",
+      "description": "Web-based client optimized for iOS with good UX",
+      "repo": "https://github.com/vitorpamplona/snort",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://snort.social"
+    },
+    {
+      "name": "Nosky",
+      "description": "Nostr client designed for ease of use on iOS",
+      "repo": "https://github.com/nosky/nosky",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://nosky.app"
+    },
+    {
+      "name": "Orbital",
+      "description": "Feature-rich iOS client with emphasis on Nostr protocol",
+      "repo": "https://github.com/orbital-app/orbital",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://orbital.app"
+    }
+  ],
+  "android": [
+    {
+      "name": "Amethyst",
+      "description": "A powerful Nostr client for Android",
+      "repo": "https://github.com/vitorpamplona/amethyst",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
+    },
+    {
+      "name": "Damus",
+      "description": "Also available for Android with full Nostr protocol support",
+      "repo": "https://github.com/damus-io/damus",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://damus.io"
+    },
+    {
+      "name": "Nostros",
+      "description": "Nostr client for Android with built-in lightning support",
+      "repo": "https://github.com/KoalaSat/nostros",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://play.google.com/store/apps/details?id=koalasat.nostros"
+    },
+    {
+      "name": "Noscli",
+      "description": "A lightweight, command-line Nostr client for Android",
+      "repo": "https://github.com/jb55/noscli",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://noscli.app"
+    }
+  ],
+  "desktop": [
+    {
+      "name": "Astral",
+      "description": "Desktop Nostr client with a clean interface",
+      "repo": "https://github.com/fiatjaf/astral",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://astral.ninja"
+    },
+    {
+      "name": "NostrVue",
+      "description": "Cross-platform Nostr client with desktop support",
+      "repo": "https://github.com/NostrVue/nostr-vue",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://nostrvue.com"
+    },
+    {
+      "name": "Coracle Desktop",
+      "description": "Desktop version of Coracle with additional features",
+      "repo": "https://github.com/coracle-social/desktop",
+      "repo_stars": 0,
+      "repo_forks": 0,
+      "uri": "https://coracle.social/desktop"
+    }
+  ]
+}
