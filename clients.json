@@ -5,14 +5,14 @@
       "description": "Made by Bitcoin's 2nd ever developer",
       "repo": "https://github.com/irislib/iris-messenger",
       "repo_stars": 721,
-      "repo_forks": 159,
+      "repo_forks": 157,
       "uri": "https://iris.to"
     },
     {
       "name": "Nostter",
       "description": "A lightweight Nostr client for web",
       "repo": "https://github.com/SnowCait/nostter",
-      "repo_stars": 119,
+      "repo_stars": 120,
       "repo_forks": 19,
       "uri": "https://nostter.app/"
     },
@@ -21,7 +21,7 @@
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
       "repo_stars": 281,
-      "repo_forks": 70,
+      "repo_forks": 71,
       "uri": "https://coracle.social"
     },
     {
@@ -71,7 +71,7 @@
       "description": "One of the most popular Nostr clients for iOS",
       "repo": "https://github.com/damus-io/damus",
       "repo_stars": 1995,
-      "repo_forks": 289,
+      "repo_forks": 288,
       "uri": "https://damus.io"
     },
     {
@@ -121,7 +121,7 @@
       "description": "Also available for Android with full Nostr protocol support",
       "repo": "https://github.com/damus-io/damus",
       "repo_stars": 1995,
-      "repo_forks": 289,
+      "repo_forks": 288,
       "uri": "https://damus.io"
     },
     {
