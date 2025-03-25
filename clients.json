@@ -20,8 +20,8 @@
       "name": "Coracle",
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
-      "repo_stars": 311,
-      "repo_forks": 78,
+      "repo_stars": 313,
+      "repo_forks": 79,
       "uri": "https://coracle.social"
     },
     {
@@ -112,7 +112,7 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1228,
+      "repo_stars": 1229,
       "repo_forks": 166,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
