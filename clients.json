@@ -20,8 +20,8 @@
       "name": "Coracle",
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
-      "repo_stars": 314,
-      "repo_forks": 80,
+      "repo_stars": 315,
+      "repo_forks": 81,
       "uri": "https://coracle.social"
     },
     {
@@ -128,8 +128,8 @@
       "name": "Nostros",
       "description": "Nostr client for Android with built-in lightning support",
       "repo": "https://github.com/KoalaSat/nostros",
-      "repo_stars": 416,
-      "repo_forks": 31,
+      "repo_stars": 0,
+      "repo_forks": 0,
       "uri": "https://play.google.com/store/apps/details?id=koalasat.nostros"
     },
     {
