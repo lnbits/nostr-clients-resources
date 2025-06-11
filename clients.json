@@ -4,7 +4,7 @@
       "name": "Iris",
       "description": "Made by Bitcoin's 2nd ever developer",
       "repo": "https://github.com/irislib/iris-messenger",
-      "repo_stars": 726,
+      "repo_stars": 725,
       "repo_forks": 165,
       "uri": "https://iris.to"
     },
@@ -112,8 +112,8 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1251,
-      "repo_forks": 169,
+      "repo_stars": 1252,
+      "repo_forks": 170,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
     {
