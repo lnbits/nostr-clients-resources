@@ -70,7 +70,7 @@
       "name": "Damus",
       "description": "One of the most popular Nostr clients for iOS",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2074,
+      "repo_stars": 2073,
       "repo_forks": 292,
       "uri": "https://damus.io"
     },
@@ -102,7 +102,7 @@
       "name": "Orbital",
       "description": "Feature-rich iOS client with emphasis on Nostr protocol",
       "repo": "https://github.com/orbital-app/orbital",
-      "repo_stars": 0,
+      "repo_stars": 1,
       "repo_forks": 0,
       "uri": "https://orbital.app"
     }
@@ -120,7 +120,7 @@
       "name": "Damus",
       "description": "Also available for Android with full Nostr protocol support",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2074,
+      "repo_stars": 2073,
       "repo_forks": 292,
       "uri": "https://damus.io"
     },
