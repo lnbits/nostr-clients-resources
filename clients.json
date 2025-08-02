@@ -13,7 +13,7 @@
       "description": "A lightweight Nostr client for web",
       "repo": "https://github.com/SnowCait/nostter",
       "repo_stars": 158,
-      "repo_forks": 26,
+      "repo_forks": 27,
       "uri": "https://nostter.app/"
     },
     {
@@ -70,7 +70,7 @@
       "name": "Damus",
       "description": "One of the most popular Nostr clients for iOS",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2078,
+      "repo_stars": 2077,
       "repo_forks": 293,
       "uri": "https://damus.io"
     },
@@ -112,7 +112,7 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1268,
+      "repo_stars": 1267,
       "repo_forks": 173,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
@@ -120,7 +120,7 @@
       "name": "Damus",
       "description": "Also available for Android with full Nostr protocol support",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2078,
+      "repo_stars": 2077,
       "repo_forks": 293,
       "uri": "https://damus.io"
     },
