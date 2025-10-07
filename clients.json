@@ -20,7 +20,7 @@
       "name": "Coracle",
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
-      "repo_stars": 330,
+      "repo_stars": 331,
       "repo_forks": 81,
       "uri": "https://coracle.social"
     },
@@ -70,7 +70,7 @@
       "name": "Damus",
       "description": "One of the most popular Nostr clients for iOS",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2079,
+      "repo_stars": 2080,
       "repo_forks": 296,
       "uri": "https://damus.io"
     },
@@ -120,7 +120,7 @@
       "name": "Damus",
       "description": "Also available for Android with full Nostr protocol support",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2079,
+      "repo_stars": 2080,
       "repo_forks": 296,
       "uri": "https://damus.io"
     },
