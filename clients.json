@@ -12,7 +12,7 @@
       "name": "Nostter",
       "description": "A lightweight Nostr client for web",
       "repo": "https://github.com/SnowCait/nostter",
-      "repo_stars": 161,
+      "repo_stars": 162,
       "repo_forks": 27,
       "uri": "https://nostter.app/"
     },
@@ -21,7 +21,7 @@
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
       "repo_stars": 335,
-      "repo_forks": 85,
+      "repo_forks": 86,
       "uri": "https://coracle.social"
     },
     {
