@@ -21,7 +21,7 @@
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
       "repo_stars": 336,
-      "repo_forks": 86,
+      "repo_forks": 87,
       "uri": "https://coracle.social"
     },
     {
@@ -102,7 +102,7 @@
       "name": "Orbital",
       "description": "Feature-rich iOS client with emphasis on Nostr protocol",
       "repo": "https://github.com/orbital-app/orbital",
-      "repo_stars": 1,
+      "repo_stars": 0,
       "repo_forks": 0,
       "uri": "https://orbital.app"
     }
