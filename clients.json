@@ -112,7 +112,7 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1328,
+      "repo_stars": 1329,
       "repo_forks": 179,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
@@ -128,7 +128,7 @@
       "name": "Nostros",
       "description": "Nostr client for Android with built-in lightning support",
       "repo": "https://github.com/KoalaSat/nostros",
-      "repo_stars": 416,
+      "repo_stars": 415,
       "repo_forks": 28,
       "uri": "https://play.google.com/store/apps/details?id=koalasat.nostros"
     },
