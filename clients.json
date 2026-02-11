@@ -12,16 +12,16 @@
       "name": "Nostter",
       "description": "A lightweight Nostr client for web",
       "repo": "https://github.com/SnowCait/nostter",
-      "repo_stars": 171,
-      "repo_forks": 26,
+      "repo_stars": 172,
+      "repo_forks": 27,
       "uri": "https://nostter.app/"
     },
     {
       "name": "Coracle",
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
-      "repo_stars": 343,
-      "repo_forks": 89,
+      "repo_stars": 344,
+      "repo_forks": 90,
       "uri": "https://coracle.social"
     },
     {
@@ -112,7 +112,7 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1333,
+      "repo_stars": 1335,
       "repo_forks": 183,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
@@ -128,7 +128,7 @@
       "name": "Nostros",
       "description": "Nostr client for Android with built-in lightning support",
       "repo": "https://github.com/KoalaSat/nostros",
-      "repo_stars": 415,
+      "repo_stars": 416,
       "repo_forks": 28,
       "uri": "https://play.google.com/store/apps/details?id=koalasat.nostros"
     },
