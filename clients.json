@@ -13,7 +13,7 @@
       "description": "A lightweight Nostr client for web",
       "repo": "https://github.com/SnowCait/nostter",
       "repo_stars": 177,
-      "repo_forks": 30,
+      "repo_forks": 31,
       "uri": "https://nostter.app/"
     },
     {
@@ -112,7 +112,7 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1531,
+      "repo_stars": 1532,
       "repo_forks": 197,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
