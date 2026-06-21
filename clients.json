@@ -5,7 +5,7 @@
       "description": "Made by Bitcoin's 2nd ever developer",
       "repo": "https://github.com/irislib/iris-messenger",
       "repo_stars": 735,
-      "repo_forks": 166,
+      "repo_forks": 167,
       "uri": "https://iris.to"
     },
     {
@@ -70,7 +70,7 @@
       "name": "Damus",
       "description": "One of the most popular Nostr clients for iOS",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2129,
+      "repo_stars": 2130,
       "repo_forks": 300,
       "uri": "https://damus.io"
     },
@@ -112,15 +112,15 @@
       "name": "Amethyst",
       "description": "A powerful Nostr client for Android",
       "repo": "https://github.com/vitorpamplona/amethyst",
-      "repo_stars": 1547,
-      "repo_forks": 208,
+      "repo_stars": 1549,
+      "repo_forks": 209,
       "uri": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst"
     },
     {
       "name": "Damus",
       "description": "Also available for Android with full Nostr protocol support",
       "repo": "https://github.com/damus-io/damus",
-      "repo_stars": 2129,
+      "repo_stars": 2130,
       "repo_forks": 300,
       "uri": "https://damus.io"
     },
