@@ -4,7 +4,7 @@
       "name": "Iris",
       "description": "Made by Bitcoin's 2nd ever developer",
       "repo": "https://github.com/irislib/iris-messenger",
-      "repo_stars": 737,
+      "repo_stars": 738,
       "repo_forks": 165,
       "uri": "https://iris.to"
     },
@@ -21,7 +21,7 @@
       "description": "Simple Nostr client focusing on a clean interface",
       "repo": "https://github.com/coracle-social/coracle",
       "repo_stars": 368,
-      "repo_forks": 98,
+      "repo_forks": 99,
       "uri": "https://coracle.social"
     },
     {
